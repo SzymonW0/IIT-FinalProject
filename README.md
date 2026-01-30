@@ -36,6 +36,6 @@ The system follows these logical steps to process information:
 
 ##  How to Run
 Trigger the Webhook using a URL like: 
-   `https://<your-n8n-url>/webhook/review?game_id=<game_id>`
+   `https://<your-n8n-url>/webhook/game_id?game_id=<game_id> `
 
 [Proofread with Gemini 3]
